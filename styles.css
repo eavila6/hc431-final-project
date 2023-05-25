@@ -22,14 +22,22 @@ button {
 }
 
 /* ----class section------------------------------------------------------- */
+
+.box{
+  background-color: lavender;
+  width: 90%;
+}
+
 .btn-bar{
   align-content:center;
   margin: auto;
   text-align:center;
+  padding: 10px;
 }
 
 /* Clear floats (clearfix hack) */
 .btn-group:after {
+  align-self: right;
   content: "";
   clear: both;
   display: inline-block;
@@ -46,33 +54,37 @@ button {
 }
 
 .container{
-    /*align-items: center;*/
-    background-color: lavender;
+    justify-content: center;
     border-width: 7px;
     display: flex;
-    padding: 5px;
+    /* padding: 25px; */
     /*justify-content: center;*/
     margin-top: 1%;
 }
 
 .header {
   overflow: hidden;
+  text-align: center;
+  margin: auto;
 	background: steelblue;
+  font-size: 30px;
 	padding: 1px;
-	width: 35%;
+  width: 85%;
 }
 
 .text-centered{
   justify-content: center;
+  text-align: center;
 }
 
 /* ----ID section ------------------------------------------------- */
+
+/* this is useful */
+/* but maybe not in this page*/
 #main{
     /*border: 2px line;*/
     display: inline-flex;
-    gap: 300px; /* a makeshift solution for now; leaves an ugly gap when shrinked */
-}
-
-#spaceyHeader{
-  margin-right: auto;
+    justify-content: space-between;
+    margin: 0%;
+    /*gap: 300px; /* a makeshift solution for now; leaves an ugly gap when shrinked */
 }
