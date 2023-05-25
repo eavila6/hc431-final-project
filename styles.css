@@ -19,6 +19,7 @@ button {
 	width: 400px;
 	font-family: "Open Sans", sans-serif;
   font-size: 28px;
+  text-decoration: none;
 }
 
 /* ----class section------------------------------------------------------- */
