@@ -16,7 +16,7 @@ button {
 	color: black; 
   margin: 5px;
 	height: 50px;
-	width: 200px;
+	width: 400px;
 	font-family: "Open Sans", sans-serif;
   font-size: 28px;
 }
@@ -75,6 +75,8 @@ button {
 .text-centered{
   justify-content: center;
   text-align: center;
+  margin: auto;
+  width: 90%;
 }
 
 /* ----ID section ------------------------------------------------- */
