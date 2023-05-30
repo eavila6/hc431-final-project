@@ -6,7 +6,7 @@ p {
     line-height: 1.6;   /*this is the standard line height*/
 }
 
-body{
+body {
     background-color: lightgray;
 }
 
@@ -20,6 +20,11 @@ button {
 	font-family: "Open Sans", sans-serif;
   font-size: 28px;
   text-decoration: none;
+}
+
+img {
+  width: 10%;
+  height: 10%;
 }
 
 /* ----class section------------------------------------------------------- */
