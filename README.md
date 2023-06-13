@@ -1,2 +1,11 @@
 # hc431-final-project
 A website project serving as a synthesis of learned materials and a guide for people learning about PNW work labor
+
+Originally, this project was simply going to give a brief overview of what I had learned in the HC321 class, explain why what we had learned was important to an ordinary UO student, and to provide links to outside sources like web pages and articles to help kickstart the student’s discovery on unions. It eventually morphed into a project focusing on a particular current event that I believed would have a notable impact on the average UO student’s life, the 2023 WGA strike, and then tying it into a set of materials and topics from the HC431 class as well as a new outside source, the philosophy of Frantz Fanon. Fanonian philosophy ties in neatly with this class particularly because the grievances of the worker had intrinsic ties to the suffering of the colonial subject, and I make an argument that, despite Fanon’s primary focus on Martinican colonial oppression, one could make the broader connections to the themes he develops in his books.
+
+This project is meant to be a conglomeration of skills and specialties I’ve developed as a student here at UO. I implemented standard coding practices and workflow techniques while developing the web pages. I stitched together previous web design work I had done and new techniques available on internet forums to create the final product. I synthesized a wide breadth of articles of various reading levels— from everyday news articles to highly specialized academic papers— to create thoughtfully condensed web pages that aimed to give the reader enough information to have a general understanding of the particular topic of the page while encouraging them to delve into the topic at hand to sate their craving for knowledge. I used my fluency of English and Spanish to form more critical analyses and access a wider range of content from all of my readings, both relating to code and article synthesis. Some of the most influential things I read were not originally written in English but rather in a romance language.
+
+Though this project is rather simplistic, I am proud of this work. The development lifespan for this project was a little under 4 weeks. All major milestones for this project were hit.
+
+Thanks for taking a look at my code base!
+—EAVI
